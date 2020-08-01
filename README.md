@@ -1,2 +1,2 @@
-# top-10-Interview-quiestions-in-array
+# top-10-Interview-questions-in-array
 Most optimised solution 
