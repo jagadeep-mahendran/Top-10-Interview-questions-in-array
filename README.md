@@ -12,6 +12,6 @@
 <br>  10...Minimize the heights (GFG)
 <br>  11...Majority element (GFG)
 <br>  12...Search in row wise &col wise sorted matric (GFG)
-<br>  13...Rearrange array in alternating positive & _ve items wth O(1) space (GFG)
+<br>  13...Rearrange array in alternating positive & Negative items wth O(1) space (GFG)
 
 <h3> Most optimised solution </h3> 
