@@ -1,6 +1,6 @@
 # top-10-Interview-questions-in-array
 
-<br>  1...3Sum (Leetcode)<br>
+<br>  1...3Sum (Leetcode)
 <br>  2...First missing integer (Interview Bit)
 <br>  3...Largest sum contiguous subarray (Interview Bit)
 <br>  4...Search in rotated sorted array (GFG)
@@ -14,4 +14,4 @@
 <br>  12...Search in row wise &col wise sorted matric (GFG)
 <br>  13...Rearrange array in alternating positive & _ve items wth O(1) space (GFG)
 
-# Most optimised solution 
+<h3> Most optimised solution </h3> 
